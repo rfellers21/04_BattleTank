@@ -13,3 +13,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT09 Flat Shading Low Poly Landscapes
 * BT10 More Landscaping Tools
 * BT116 Actors from Multiple Meshes
+* BT118 Configuring a Tank
