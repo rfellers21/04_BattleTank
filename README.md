@@ -19,3 +19,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT121 User Interface in Unreal
 * BT122 Main Menu Screens
 * BT123 UI Scale Box, Buttons & Mouse
+* BT124 Controller Ready Navigation
