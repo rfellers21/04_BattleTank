@@ -18,3 +18,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT120 Fixing 3rd Person Camera Rotation
 * BT121 User Interface in Unreal
 * BT122 Main Menu Screens
+* BT123 UI Scale Box, Buttons & Mouse
